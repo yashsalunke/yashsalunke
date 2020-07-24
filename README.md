@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **yashsalunke/yashsalunke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=yashsalunke&show_icons=true&theme=tokyonight)
+
 
 
 ### Hi there, I'm [Yash!](https://yashsalunke.github.io) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
+<a href="https://github.com/yashsalunke/Housie">
+  <img align="left" alt="Yash Salunke | Housie" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
 </a>
 <a href="https://twitter.com/anuraghazru">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />

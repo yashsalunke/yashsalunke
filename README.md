@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![Yash's Github Stats](https://github-readme-stats.vercel.app/api?username=yashsalunke&show_icons=true&theme=tokyonight)
 
 
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+### Hi there, I'm [Yash!](https://yashsalunke.github.io) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
   <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />

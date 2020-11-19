@@ -34,6 +34,7 @@ Hi, I'm Yash Salunke, a passionate self-taught Android Application Developer fro
 
 - 🔭 I’m currently working on my project [Attendance System](https://github.com/yashsalunke/AttendanceSystem)
 - 💬 Ask me about anything [here](https://github.com/yashsalunke/yashsalunke/issues)
+- 📫 How to reach me: [Everything about me on my PortFolio].(https://yashsalunke.github.io/)
 
 <!--
   if you have forked this to use on your profile, 

@@ -55,7 +55,17 @@ Hi, I'm Yash Salunke, a passionate self-taught Android Applications & Python Dev
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=AttendanceSystem&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=flutter&theme=radical" />
+</a>
+
+<a href="">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=build-your-own-x&theme=radical" />
+</a>
+
+<a href="">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=MySocialPlatform&theme=radical" />
 </a>
 
 <a href="">

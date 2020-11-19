@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-Hi, I'm Yash Salunke, a passionate self-taught Android Application Developer from India.
+Hi, I'm Yash Salunke, a passionate self-taught Android Applications & Python Developer from India.
 
 - 🔭 I’m currently working on my project [Attendance System](https://github.com/yashsalunke/AttendanceSystem)
 - 💬 Ask me about anything [here](https://github.com/yashsalunke/yashsalunke/issues)

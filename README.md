@@ -55,5 +55,15 @@ Hi, I'm Yash Salunke, a passionate self-taught Android Applications & Python Dev
 
 <a href="">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=AttendanceSystem&theme=radical" />
+</a>
+
+<a href="">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=yashsalunke.github.io&theme=radical" />
+</a>
+
+<a href="">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yashsalunke&repo=MapMitra&theme=radical" />
 </a>

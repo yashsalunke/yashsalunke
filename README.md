@@ -34,7 +34,7 @@ Hi, I'm Yash Salunke, a passionate self-taught Android Applications & Python Dev
 
 - 🔭 I’m currently working on my project [Attendance System](https://github.com/yashsalunke/FRBAS)
 - 💬 Ask me about anything [here](https://github.com/yashsalunke/yashsalunke/issues)
-- 📫 How to reach me: [Everything about me on my PortFolio](https://yashsalunke.github.io/)
+- 📫 How to reach me: [Everything about me on my PortFolio](https://sites.google.com/view/yash-salunke//)
 
 <!--
   if you have forked this to use on your profile, 

@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Yash Salunke, a passionate self-taught Android Applications & Python Developer from India.
 
-- 🔭 I’m currently working on my project [Attendance System](https://github.com/yashsalunke/AttendanceSystem)
+- 🔭 I’m currently working on my project [Attendance System](https://github.com/yashsalunke/FRBAS)
 - 💬 Ask me about anything [here](https://github.com/yashsalunke/yashsalunke/issues)
 - 📫 How to reach me: [Everything about me on my PortFolio](https://yashsalunke.github.io/)
 
